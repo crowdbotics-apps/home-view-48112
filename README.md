@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-login](modules/login)
 - [react-native-photo-editing](modules/photo-editing)
 - [react-native-onboarding](modules/onboarding)
+- [react-native-zoom-free-calling](modules/zoom-free-calling)
 
 # Getting started: Frontend
 
